@@ -1,5 +1,9 @@
 # QzoneArchive 修复版（QQ 空间记忆找回工具）
 
+> [!WARNING]
+> **已失效，暂停下载（2026-11-20）**：2026 年 9 月中旬起，QQ 空间接口有变化，本工具获取动态时返回 HTTP 501，已经拿不到数据（见 #1 #2）。上游 QzoneArchive 已于 2026-09-04 停止维护。在找到可靠办法之前，请不要再下载安装包。
+
+
 > ⭐ **推荐下载**：[Releases](https://github.com/wutuobangai/QzoneArchive-fix/releases/tag/v1.0.3-patch0829) 里以 `00-Recommended-` 开头的压缩包（安装包 + 中文图文教程，解压就能用）
 >
 > 🧑‍💻 **维护者 Happy AI · 阿浩**（抖音「跟着阿浩玩Ai」）｜官网 **[wutuobangai.top](https://wutuobangai.top/?utm_source=github&utm_medium=readme&utm_campaign=qzone-20260829)**：ChatGPT Plus / Pro · Claude · Gemini · Grok 会员正规充值，24 小时内交付，有售后｜[AI 免费知识库](https://wutuobangai.top/knowledge.html?utm_source=github&utm_medium=readme)（教程 / 工具 / 资料，不用登录）
